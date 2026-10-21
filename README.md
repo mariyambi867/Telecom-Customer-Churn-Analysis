@@ -38,6 +38,7 @@ DAX was used to calculate important measures required for the analysis. These in
 The calculated measures are displayed through KPI cards and charts to make the analysis easier to understand. They also help users explore churn patterns across demographic, service, contract, and billing categories.
 
 Overall Dashboard
+
 ![Overall Dashboard](https://github.com/user-attachments/assets/36de8d69-c670-439f-a6cd-80877de928d5)
 
 Customer Demographics Analysis
