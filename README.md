@@ -47,7 +47,7 @@ The Customer Demographics Analysis section examines the distribution of customer
 
 Interactive demographic filters allow users to explore specific customer groups and understand how customer characteristics and tenure are associated with churn patterns.                                                                                                                                                          
 
-![Customer Demographics Analysis](https://github.com/user-attachments/assets/49b00b0e-0cb1-45d5-aeec-177007cf68cc)
+![Customer Demographics Analysis](https://github.com/user-attachments/assets/7dc18aa1-3c4f-4eff-9798-ac001dbbba2a)
 
 Service Subscription Analysis
 
@@ -56,14 +56,16 @@ The Service Subscription Analysis section examines phone service usage, internet
 The analysis indicates that Fiber Optic customers have a relatively higher churn rate in the reported results. The approximate churn rates shown in the project are 41.9% for Fiber Optic, 19.0% for DSL, and 7.4% for customers without internet service. These comparisons help identify service categories that may require further investigation.
 
 Interactive service filters allow users to explore different service categories and examine how churn patterns vary across customer groups.
-![Service Subscription Analysis](https://github.com/user-attachments/assets/84ffd83a-e0bc-40e8-88e4-111a4f7a0ff0)
+![Service Subscription Analysis](https://github.com/user-attachments/assets/8d6f6af4-dc02-41dd-8d64-6c64a6966266)
+
 
 Contract and Billing Analysis
 
 The Contract and Billing Analysis section studies customer churn across different contract types and payment methods. It examines average total charges by contract, monthly charges by payment method, paperless billing in relation to churn, and tenure distribution across contract categories.
 
 Billing-related KPIs and interactive filters help users compare customer groups and explore how contract and billing characteristics are associated with churn. The results can support further investigation into contract preferences, payment experiences, and potential opportunities to improve customer retention.
-![Contract and Billing Analysis](https://github.com/user-attachments/assets/91f4387b-edee-4cf3-adc8-f8ffa4941331)
+![Contract and Billing Analysis](https://github.com/user-attachments/assets/52930537-dd9b-4655-b8e5-e17063c09df5)
+
 
 
 Churn Prediction and Key Drivers
@@ -71,9 +73,8 @@ Churn Prediction and Key Drivers
 The Churn Prediction and Key Drivers section focuses on factors associated with higher customer churn. The factors examined include month-to-month contracts, Fiber Optic internet service, electronic check payments, short customer tenure, paperless billing, and the senior citizen segment.
 
 A rule-based Churn Risk Score is used to identify customers who have multiple churn-related factors. This score supports segment-based risk analysis and helps highlight customers who may need additional attention. It is a rule-based scoring method and not a machine-learning prediction model.
-![Churn Prediction and Key Drivers](https://github.com/user-attachments/assets/0a776c3b-6d37-44f1-8971-5104ff1bec75)
+![Churn Prediction and Key Drivers](https://github.com/user-attachments/assets/088e21ef-d61b-46c2-99e2-dbe998277551)
 
-Key Findings
 
 The analysis indicates that month-to-month customers experience the highest churn among contract categories, while customers with shorter tenure show higher churn. Fiber Optic customers and customers using electronic check payments also show relatively higher churn in the reported analysis. Customers with multiple churn-related factors may represent higher-risk segments that deserve further investigation.
 
